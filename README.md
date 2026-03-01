@@ -24,11 +24,11 @@ To drive long-term engagement, academic progress is tied to a digital companion.
 - Level 4:(800 xp) Cloud-Breaker Wyvern - Complete Quadratic Solving
 - Level 5:(1000 xp) Archmage’s Grand Mythos - Persistent Logical Excellence
 
-##  Tech Stack & AMD Integration
-- Engine: Python & Streamlit
-- Intelligence: Google Gemini 2.5 Flash API
-- Mathematical Rendering: LaTeX / MathJax
-- Data Persistence: Persistent save-state via `wizard_save.txt`
+##  Technical Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![AMD Ryzen AI](https://img.shields.io/badge/AMD-Ryzen%20AI-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ###  AMD Edge Advantage
 AMPLIFY is designed with the **AMD Ryzen™ AI** roadmap in mind. By utilizing the dedicated **NPU (Neural Processing Unit)** in Ryzen 7000/8000 series processors, we aim to:
