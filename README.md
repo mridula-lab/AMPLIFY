@@ -36,6 +36,13 @@ AMPLIFY is designed with the **AMD Ryzen™ AI** roadmap in mind. By utilizing t
 2. Ensure Student Privacy: Keep sensitive educational data on the device, not the cloud.
 3. Power Efficiency: Optimize high-frequency tutoring sessions for longer battery life on student laptops.
 
+## Future Roadmap: The Path to Archmage
+AMPLIFY is designed to scale into a full-spectrum educational ecosystem:
+1. The Scryer’s Lens (Multimodal Vision):Leveraging Gemini 2.5 Flash to analyze handwritten homework photos. The AI will detect specific "ink-to-logic" errors and provide Socratic guidance directly on the image.
+2. Local-First Inference (AMD NPU): Migrating from cloud-based API calls to local inference using the **AMD Ryzen™ AI NPU**. This ensures student data never leaves the device and provides an instant, offline "Wizard" experience.
+3. Collaborative Quests: A "Guild" system where students solve multi-part theorems together to defeat "Logic-Void" monsters, fostering peer-to-peer learning
+4. Beyond Algebra: Expanding the "Wizarding World" to include specialized quest-lines for **Calculus, Physics, and Chemistry**.
+
 ##  How to Run
 1. Clone the Repo:
    ```bash
